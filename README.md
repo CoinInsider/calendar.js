@@ -1,5 +1,5 @@
 calendar.js
-============
+============--
 
 Functions inspired by the calendar module from the Python standard library.
 
